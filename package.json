@@ -1,0 +1,31 @@
+{
+  "name": "electron-app-smart-display",
+  "version": "1.0.0",
+  "description": "Electron App to run on Raspberry Pi",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Smart",
+    "Display",
+    "Node",
+    "React",
+    "Raspberry",
+    "Pi"
+  ],
+  "devDependencies": {
+    "electron": "^1.4.15"
+  },
+  "author": "Bhargavi Bakhle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakhle/electron-app-smart-display"
+  },
+  "bugs": {
+    "url": "https://github.com/bakhle/electron-app-smart-display/issues"
+  },
+  "homepage": "https://github.com/bakhle/electron-app-smart-display#readme",
+  "license": "MIT"
+}
